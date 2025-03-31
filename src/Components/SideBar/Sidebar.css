@@ -1,0 +1,12 @@
+.side-bar{
+    background-color: rgb(50, 50, 52);
+    width: 200px;
+    height: calc(100vh - 56px);
+}
+.side-bar a{
+    color: #fff;
+    padding: 20px
+}
+.side-bar .nav-link span {
+    padding-left: 20px;
+}
